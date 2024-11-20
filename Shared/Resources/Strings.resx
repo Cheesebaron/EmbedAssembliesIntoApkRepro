@@ -126,6 +126,6 @@
         </value>
     </resheader>
     <data name="Greeting" xml:space="preserve">
-    <value>Hello .NET 9!</value>
+    <value>Hello .NET 9! en-US</value>
     </data>
 </root>
